@@ -1,0 +1,15 @@
+.container .jumbotron{
+	margin-top: 70px;
+	color: #001050;
+	background: #8a85857d;
+}
+.navbar{
+	background: #001050; 
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
